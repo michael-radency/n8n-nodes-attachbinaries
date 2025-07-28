@@ -1,0 +1,28 @@
+{
+	"node": "n8n-nodes-base.attachBinary",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Core Nodes"],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.attachBinary/"
+			}
+		]
+	},
+	"alias": [
+		"Binary",
+		"File",
+		"Text",
+		"Open",
+		"Import",
+		"Save",
+		"Export",
+		"Disk",
+		"Transfer",
+		"Attach"
+	],
+	"subcategories": {
+		"Core Nodes": ["Files"]
+	}
+}
